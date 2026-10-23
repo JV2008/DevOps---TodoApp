@@ -6,7 +6,7 @@ on:
 
 jobs:
   testes-unitarios:
-    name: Testes unitários
+    name: Testes Uitários
     runs-on: ubuntu-latest
     steps:
       - name: Checkout do código
